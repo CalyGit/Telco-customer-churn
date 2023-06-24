@@ -20,13 +20,12 @@ In this project, we will analyze a dataset containing various customer attribute
 
 ## Questions
 
-1.What are the significant factors that influence customer churn?
+1.What are the key indicators of customer churn in this dataset?
 
-2.Can we accurately predict customer churn based on available customer data?
+2.Is there any correlation between the type of internet service provider and customer churn?
 
-3.How can we use the identified indicators to develop effective retention strategies?
+3.What is the relationship between contract terms and customer churn?
 
-4.Which customer segments are more likely to churn?
-
+4.Which payment method is associated with higher customer churn?
 
 5.How can the organization leverage payment methods, contract terms, and billing preferences to reduce churn?
