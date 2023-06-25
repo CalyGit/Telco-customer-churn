@@ -29,3 +29,8 @@ In this project, we will analyze a dataset containing various customer attribute
 4.Which payment method is associated with higher customer churn?
 
 5.How can the organization leverage payment methods, contract terms, and billing preferences to reduce churn?
+
+## Datasets
+Download `Telco-churn` datasets [here](https://github.com/CalyGit/Telco-churn/blob/main/Datasets/Datasets.zip).
+
+
