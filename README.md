@@ -31,6 +31,6 @@ In this project, we will analyze a dataset containing various customer attribute
 5.How can the organization leverage payment methods, contract terms, and billing preferences to reduce churn?
 
 ## Datasets
-Download `Telco-churn` datasets [here](https://github.com/CalyGit/Telco-churn/blob/main/Datasets/Datasets.zip).
-
+Download `Telco-churn` datasets [here](https://github.com/CalyGit/Telco-churn/raw/main/Datasets/Datasets.zip).
+Download `requirements` [here](https://github.com/CalyGit/Telco-customer-churn/blob/main/requirements.txt)
 
