@@ -32,5 +32,6 @@ In this project, we will analyze a dataset containing various customer attribute
 
 ## Datasets
 Download `Telco-churn` datasets [here](https://github.com/CalyGit/Telco-churn/raw/main/Datasets/Datasets.zip).
-Download `requirements` [here](https://github.com/CalyGit/Telco-customer-churn/blob/main/requirements.txt)
+
+Download `requirements` [here](https://github.com/CalyGit/Telco-customer-churn/blob/main/requirements.txt).
 
